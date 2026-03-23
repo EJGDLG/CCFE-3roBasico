@@ -35,7 +35,7 @@ Cada estudiante trabajará ejercicios prácticos en páginas o herramientas indi
 
 ### 🧾 ¿Qué deben hacer?
 1. Realizar el ejercicio en la plataforma indicada  
-   (Ej: páginas web, compiladores online, etc.)
+   (https://playcode.io/html-template)
 
 2. Tomar **capturas de pantalla** donde se vea:
    - El código  
