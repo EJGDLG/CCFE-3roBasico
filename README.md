@@ -1,69 +1,73 @@
-# CCFE-3roBasico
-Este repositorio centraliza todas las actividades del ciclo escolar: tareas, ejercicios prácticos, proyectos y material de apoyo. Está diseñado para que los estudiantes puedan seguir instrucciones claras, desarrollar competencias tecnológicas y fortalecer su aprendizaje de forma progresiva.
-# 📘 Instructivo General del Curso – CCFE 3ro Básico
+# Instructivo General – Tercera Unidad  
+## CCFE 3ro Básico
 
-Este repositorio contiene las actividades del curso organizadas en tres áreas:
-
-- 💻 **Computación**
-- 🧠 **Programación**
-- 🤖 **Robótica**
-
-Cada área tiene su propia forma de trabajo y entrega.
+Durante la tercera unidad se trabajarán actividades prácticas relacionadas con el uso de hojas de cálculo, creación de páginas web básicas y simulación de circuitos electrónicos.
 
 ---
 
-## 💻 1. Computación (Trabajo en clase)
+# 1. Computación – Actividades de Excel o Google Sheets
 
-### 📌 Modalidad:
-Todos los ejercicios se realizarán **dentro del aula**.
+## Tema general
 
-### 📝 Indicaciones:
-- Seguir las instrucciones de cada actividad en el repositorio.
-- Trabajar de forma ordenada y responsable.
-- Resolver los ejercicios en el tiempo asignado.
+Uso de hojas de cálculo para resolver ejercicios de análisis utilizando:
 
-### 📍 Entrega:
-- ❌ No se suben tareas
-- ✅ Evaluación será en clase
+- Fórmulas básicas
+- Funciones de Autosuma
+- Formato condicional
+- Análisis de datos
 
----
+## Modalidad
 
-## 🧠 2. Programación (Entrega en GitHub)
+Las actividades de Computación se pueden realizar en:
 
-### 📌 Modalidad:
-Cada estudiante trabajará ejercicios prácticos en páginas o herramientas indicadas.
+- **Microsoft Excel**, si el estudiante cuenta con el programa.
+- **Google Sheets**, si no cuenta con Excel.
 
-### 🧾 ¿Qué deben hacer?
-1. Realizar el ejercicio en la plataforma indicada  
-   (https://playcode.io/html-template)
+## Indicaciones
 
-2. Tomar **capturas de pantalla** donde se vea:
-   - El código  
-   - El resultado funcionando  
+El estudiante deberá resolver las hojas de trabajo asignadas, aplicando las herramientas vistas en clase.
 
----
+En estas actividades deberá analizar los datos y decidir qué herramienta utilizar según lo que pide cada pregunta.
 
-### 📤 Entrega obligatoria en GitHub
+Puede utilizar:
 
-Cada estudiante debe:
+### Fórmulas básicas
 
-- Crear un repositorio propio  
-- Agregar al docente como colaborador: **EJGDLG**  
-- Subir sus evidencias (capturas)  
+- Suma: `+`
+- Resta: `-`
+- Multiplicación: `*`
+- División: `/`
 
----
+### Funciones de Autosuma
 
-## 🤖 3. Robótica (Entrega física)
+- Suma
+- Promedio
+- Contar números
+- Máx
+- Mín
 
-### 📌 Modalidad:
-Actividades teóricas y prácticas
+### Formatos condicionales predeterminados
 
-### 📝 Indicaciones:
-- Realizar las tareas en hojas (a mano)
-- Responder de forma clara y ordenada
+- Reglas para resaltar celdas
+- Reglas para valores superiores e inferiores
+- Barras de datos
+- Escalas de color
+- Conjuntos de iconos
 
-### 📍 Entrega:
-- Entregar físicamente en clase
-- En la fecha indicada
+## Entrega
 
----
+Las actividades deberán enviarse por correo electrónico al profesor:
+
+**edwinjosegabriel@gmail.com**
+
+## Recomendaciones para enviar el archivo
+
+El correo debe incluir:
+
+- Nombre completo del estudiante
+- Grado y sección
+- Archivo adjunto de Excel o enlace de Google Sheets
+- Asunto claro, por ejemplo:
+
+```text
+Tarea Computación Tercera Unidad - Nombre del estudiante
