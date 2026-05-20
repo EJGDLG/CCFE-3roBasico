@@ -33,12 +33,6 @@ Puede utilizar:
   - Contar números
   - Máx
   - Mín
-- **Formatos condicionales predeterminados**:
-  - Reglas para resaltar celdas
-  - Reglas para valores superiores e inferiores
-  - Barras de datos
-  - Escalas de color
-  - Conjuntos de iconos
 
 ### Entrega
 Las actividades deberán enviarse por correo electrónico al profesor:  
@@ -52,6 +46,22 @@ El correo debe incluir:
 - Archivo adjunto de Excel o enlace de Google Sheets
 - Asunto claro, por ejemplo:  
   `Tarea Computación Tercera Unidad - Nombre del estudiante`
+
+#### Indicaciones para el trabajo escrito - de tablas de Excel
+El estudiante debe realizar las tareas en:
+
+- Hojas tamaño oficio
+- A mano
+- Con letra clara
+- Bien identificado
+
+Cada hoja debe incluir:
+
+- Nombre completo
+- Grado y sección
+- Fecha
+- Título de la actividad
+
 
 ## 2. Programación – Actividades de HTML
 
@@ -73,7 +83,7 @@ Las actividades de Programación deberán trabajarse y entregarse utilizando **G
 Cada estudiante deberá:
 
 1. Crear un repositorio en GitHub para sus actividades de Programación.
-2. Subir los archivos HTML, CSS, imágenes o recursos utilizados.
+2. Subir las imágenes donde se pueda vizualizar los resultados de los codigos.
 3. Agregar al profesor como colaborador del repositorio.
 
 #### Colaborador obligatorio
@@ -85,19 +95,12 @@ La entrega será por medio de GitHub.
 
 El repositorio debe contener:
 
-- Archivo principal `index.html`
-- Archivos adicionales si los utiliza
-- Carpeta de imágenes, si corresponde
-- Código ordenado y comentado
-- Evidencia de que la página funciona correctamente
+- Evidencia de que la página funciona correctamente (imagen donde se vizualice el codigo y el resultado)
 
 ### Recomendaciones
 El estudiante debe verificar que:
 
-- El archivo principal se llame `index.html`.
-- Los enlaces funcionen correctamente.
 - Las imágenes carguen bien.
-- El código tenga comentarios.
 - El repositorio esté visible para el profesor.
 - El profesor `EJGDLG` haya sido agregado como colaborador.
 
