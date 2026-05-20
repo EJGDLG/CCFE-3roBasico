@@ -10,7 +10,6 @@ Uso de hojas de cálculo para resolver ejercicios de análisis utilizando:
 
 - Fórmulas básicas
 - Funciones de Autosuma
-- Formato condicional
 - Análisis de datos
 
 ### Modalidad
