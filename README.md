@@ -3,6 +3,19 @@
 
 Durante la tercera unidad se trabajarán actividades prácticas relacionadas con el uso de hojas de cálculo, creación de páginas web básicas y simulación de circuitos electrónicos.
 
+# 📌 Tareas a entregar
+
+A continuación se detallan las tareas que deben entregarse durante la unidad.
+
+| No. | Tarea | Fecha de entrega |
+|---|---|---|
+| 1 | Instrucciones login-básico | 25/5/2026 |
+| 2 | Flexbox Froggy | 1/6/2026 |
+| 3 | Instrucciones registro básico | 8/6/2026 |
+| 4 | Tarea 1 - Diagrama | 3/6/2026 |
+| 5 | Tarea 1 - Arduino Uno | 10/6/2026 |
+
+> Todas las tareas deben entregarse en la fecha indicada.
 ## 1. Computación – Actividades de Excel o Google Sheets
 
 ### Tema general
