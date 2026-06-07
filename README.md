@@ -13,9 +13,7 @@ A continuación se detallan las tareas que deben entregarse durante la unidad.
 | 2 | Flexbox Froggy | 1/6/2026 |
 | 3 | Instrucciones registro básico | 8/6/2026 |
 | 4 | Tarea 1 - Diagrama | 3/6/2026 |
-| 5 | Tarea 1 - Arduino Uno | 10/6/2026 |
-| 6 |	Instrucciones registro | basico	8/6/2026|
-| 7 |	Tarea2-diagramas |	10/6/2026|
+| 5 | Tarea 2 - Diagrama | 10/6/2026 |
 
 
 > Todas las tareas deben entregarse en la fecha indicada.
