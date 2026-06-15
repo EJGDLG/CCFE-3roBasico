@@ -15,8 +15,11 @@ A continuación se detallan las tareas que deben entregarse durante la unidad.
 | 4 | Tarea 1 - Diagrama | 3/6/2026 |
 | 5 | Tarea 2 - Diagrama | 10/6/2026 |
 | 6 | Tarea 2 - arduino | 17/6/2026 |
-
-
+| 5 | Tarea 2 - Diagrama | 10/6/2026 |
+| 6 | Tarea 2 - arduino - opcional mejoramiento | 17/6/2026 |
+| 7 |Formulas mas conocidas| 15/6/2026 |
+| 8 |Funciones mas conocidas| 15/6/2026 |
+| 8 | Prueba corta de diagramas- robotica | 17/6/2026 |
 > Todas las tareas deben entregarse en la fecha indicada.
 ## 1. Computación – Actividades de Excel o Google Sheets
 
